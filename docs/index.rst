@@ -1,7 +1,7 @@
 NoOS Project: Take back control
 ===============================
 .. attention:: This is **not for the faint hearted** . 
-    It would be much simpler if you just bought a Non-Smart phone. But here we intend to fool people by showing that we own a smart phone
+    It would be much simpler if you just bought a Non-Smart phone. But here we intend to fool people & ourselves by showing that we own a smart phone
 
 It is a tool, not a power pill for will. If you want control of your life it wil help. 
 **We Social Media generation** , this is specially for you if you need self help, order and organization. 
